@@ -40,5 +40,5 @@ app.controller('ThirCtrl', function($scope) {
 })
 
 app.controller('FourCtrl', function($scope) {
-    $scope.errorMessage="NO RESULTS, IDIOT<3 -Dwight K. Shrut"
+    $scope.errorMessage="NO RESULTS, IDIOT."
 })
