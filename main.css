@@ -1,0 +1,7 @@
+body {
+    background: url(http://drivethenation.com/wp-content/uploads/2014/08/Seven-Mile-Bridge-1024x452.jpg) center center no-repeat fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}   
